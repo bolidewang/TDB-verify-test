@@ -1,0 +1,16 @@
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\SampleCompare.exe
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\SampleCompare.pdb
+D:\projects\数字多媒体\SampleCompare\SampleCompare\obj\x86\Debug\SampleCompare.FinalDistinguish.resources
+D:\projects\数字多媒体\SampleCompare\SampleCompare\obj\x86\Debug\SampleCompare.Properties.Resources.resources
+D:\projects\数字多媒体\SampleCompare\SampleCompare\obj\x86\Debug\SampleCompare.csproj.GenerateResource.Cache
+D:\projects\数字多媒体\SampleCompare\SampleCompare\obj\x86\Debug\SampleCompare.exe
+D:\projects\数字多媒体\SampleCompare\SampleCompare\obj\x86\Debug\SampleCompare.pdb
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\样本\2.jpg
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\样本\3.jpg
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\样本\4.jpg
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\样本\5.jpg
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\样本\6.jpg
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\样本\7.jpg
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\样本\8.jpg
+D:\projects\数字多媒体\SampleCompare\SampleCompare\切片识别\样本\9.jpg
+D:\projects\数字多媒体\SampleCompare\SampleCompare\obj\x86\Debug\SampleCompare.csprojResolveAssemblyReference.cache
